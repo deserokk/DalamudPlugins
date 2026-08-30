@@ -26,7 +26,7 @@
     "Author": "Lynesth, maintained by Khayle (PvP patch by deserokk)",
     "Name": "Better Targeting System (PvP)",
     "InternalName": "BetterTargetingSystemPvP",
-    "AssemblyVersion": "0.15.3.0",
+    "AssemblyVersion": "0.16.0.0",
     "Description": "A fork of Better Targeting System that also runs in PvP. Only the target selection (camera-cone + proximity) is affected - no combat mechanics change.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/deserokk/BetterTargetingSystem-pvp",
