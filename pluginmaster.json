@@ -1,70 +1,70 @@
-﻿[
-    {
-        "Author": "deserokk",
-        "Name": "DeserokUtils",
-        "InternalName": "DeserokUtils",
-        "AssemblyVersion": "1.29.5.0",
-        "TestingAssemblyVersion": "1.29.5.0",
-        "Description": "A set of small quality-of-life utilities. Everything is toggleable, and the ones that act on their own are off by default.\n/dsu opens the window; every feature is explained there.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-        "Tags": [
-            "macro",
-            "conditional",
-            "fate",
-            "free company",
-            "quality of life",
-            "utility"
-        ],
-        "DalamudApiLevel": 15,
-        "Punchline": "A bucket of small utilities",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/deserokk/DeserokUtils/main/repo/DeserokUtils/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/deserokk/DeserokUtils/main/repo/DeserokUtils/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/deserokk/DeserokUtils/testing/repo/DeserokUtils/latest.zip",
-        "DownloadCount": 0
-    },
-    {
-        "Author": "Lynesth, maintained by Khayle (PvP patch by deserokk)",
-        "Name": "Better Targeting System (PvP)",
-        "InternalName": "BetterTargetingSystemPvP",
-        "AssemblyVersion": "0.16.0.0",
-        "Description": "A fork of Better Targeting System that also runs in PvP. Only the target selection (camera-cone + proximity) is affected - no combat mechanics change.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/deserokk/BetterTargetingSystem-pvp",
-        "Tags": [
-            "Tab",
-            "Target",
-            "Targeting",
-            "PvP"
-        ],
-        "DalamudApiLevel": 15,
-        "IconUrl": "https://github.com/Lynesth/BetterTargetingSystem/raw/main/BetterTargetingSystem/images/icon.png",
-        "Punchline": "Intelligent tab-targeting, also enabled in PvP.",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/deserokk/BetterTargetingSystem-pvp/pvp-enable/repo/BetterTargetingSystemPvP/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/deserokk/BetterTargetingSystem-pvp/pvp-enable/repo/BetterTargetingSystemPvP/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/deserokk/BetterTargetingSystem-pvp/pvp-enable/repo/BetterTargetingSystemPvP/latest.zip",
-        "DownloadCount": 0
-    },
-    {
-        "Author": "deserokk",
-        "Name": "DesCast",
-        "InternalName": "DesCast",
-        "AssemblyVersion": "0.5.0.0",
-        "Description": "Flat screens placed anywhere in a house, correctly hidden by walls and people. Shows an image or a rotating set, from your PC or a link, and a whole room of them can be shared with your Free Company from one file.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/deserokk/DesCast",
-        "Tags": [
-            "housing",
-            "screen",
-            "signage",
-            "display",
-            "free company"
-        ],
-        "DalamudApiLevel": 15,
-        "Punchline": "Screens, signage and shared boards for your house",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/deserokk/DesCast/main/repo/DesCast/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/deserokk/DesCast/main/repo/DesCast/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/deserokk/DesCast/main/repo/DesCast/latest.zip",
-        "DownloadCount": 0
-    }
+[
+  {
+    "Author": "deserokk",
+    "Name": "DeserokUtils",
+    "InternalName": "DeserokUtils",
+    "AssemblyVersion": "1.29.6.0",
+    "TestingAssemblyVersion": "1.29.6.0",
+    "Description": "A set of small quality-of-life utilities. Everything is toggleable, and the ones that act on their own are off by default.\n/dsu opens the window; every feature is explained there.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/deserokk/DeserokUtils",
+    "Tags": [
+      "macro",
+      "conditional",
+      "fate",
+      "free company",
+      "quality of life",
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "Punchline": "A bucket of small utilities",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/deserokk/DeserokUtils/main/repo/DeserokUtils/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/deserokk/DeserokUtils/main/repo/DeserokUtils/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/deserokk/DeserokUtils/testing/repo/DeserokUtils/latest.zip",
+    "DownloadCount": 0
+  },
+  {
+    "Author": "Lynesth, maintained by Khayle (PvP patch by deserokk)",
+    "Name": "Better Targeting System (PvP)",
+    "InternalName": "BetterTargetingSystemPvP",
+    "AssemblyVersion": "0.16.0.0",
+    "Description": "A fork of Better Targeting System that also runs in PvP. Only the target selection (camera-cone + proximity) is affected - no combat mechanics change.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/deserokk/BetterTargetingSystem-pvp",
+    "Tags": [
+      "Tab",
+      "Target",
+      "Targeting",
+      "PvP"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://github.com/Lynesth/BetterTargetingSystem/raw/main/BetterTargetingSystem/images/icon.png",
+    "Punchline": "Intelligent tab-targeting, also enabled in PvP.",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/deserokk/BetterTargetingSystem-pvp/pvp-enable/repo/BetterTargetingSystemPvP/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/deserokk/BetterTargetingSystem-pvp/pvp-enable/repo/BetterTargetingSystemPvP/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/deserokk/BetterTargetingSystem-pvp/pvp-enable/repo/BetterTargetingSystemPvP/latest.zip",
+    "DownloadCount": 0
+  },
+  {
+    "Author": "deserokk",
+    "Name": "DesCast",
+    "InternalName": "DesCast",
+    "AssemblyVersion": "0.5.0.0",
+    "Description": "Flat screens placed anywhere in a house, correctly hidden by walls and people. Shows an image or a rotating set, from your PC or a link, and a whole room of them can be shared with your Free Company from one file.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/deserokk/DesCast",
+    "Tags": [
+      "housing",
+      "screen",
+      "signage",
+      "display",
+      "free company"
+    ],
+    "DalamudApiLevel": 15,
+    "Punchline": "Screens, signage and shared boards for your house",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/deserokk/DesCast/main/repo/DesCast/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/deserokk/DesCast/main/repo/DesCast/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/deserokk/DesCast/main/repo/DesCast/latest.zip",
+    "DownloadCount": 0
+  }
 ]
